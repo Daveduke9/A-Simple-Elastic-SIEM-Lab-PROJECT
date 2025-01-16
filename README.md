@@ -1,5 +1,4 @@
 # A-Simple-Elastic-SIEM-Lab-PROJECT
-A Simple Elastic SIEM Lab PROJECT using LINUX and NMAP
 # A Simple Elastic SIEM Lab
 
 In this project, I set up a home lab for Elastic Stack Security Information and Event Management (SIEM) using the Elastic Web portal and a Kali Linux VM. The lab involves generating security events, configuring an agent to forward logs to the SIEM, analyzing the logs, and creating visualizations and alerts. Below are the steps I followed:
